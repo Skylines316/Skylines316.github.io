@@ -1,7 +1,8 @@
-.main-nav{
+.main-nav {
     background-color: blueviolet;
+    list-style: none;
 }
 
-.main-nav__item{
+.main-nav__item {
     color: black;
 }
