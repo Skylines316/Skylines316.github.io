@@ -8,6 +8,14 @@ body {
     text-align: left;
     background-color: #fff;
 }
+header {
+    
+}
+
+main {
+    margin: 20px;
+}
+
 .main-nav {
     flex-wrap: nowrap;
     padding-bottom: 1rem;
@@ -15,6 +23,8 @@ body {
     overflow-x: auto;
     text-align: center;
     white-space: nowrap;
+    border-bottom: 1mm solid;
+    border-bottom-color: #5c8e6f ;
 }
 
 .main-nav__item {

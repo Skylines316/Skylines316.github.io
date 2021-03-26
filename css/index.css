@@ -2,6 +2,16 @@ h1 {
     text-align: center;
 }
 
-#descripcion {
+.main-biography {
+    height: 10cm;
+}
+
+.main-biography p {
     text-align: justify;
+    padding: 0 4mm 0 0;
+    height: inherit;
+}
+
+.main-biography img {
+    height: inherit;
 }
